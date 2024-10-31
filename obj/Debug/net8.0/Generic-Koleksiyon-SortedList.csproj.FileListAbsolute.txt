@@ -1,0 +1,14 @@
+/Users/emrahelis/Generic-Koleksiyon-SortedList/bin/Debug/net8.0/Generic-Koleksiyon-SortedList
+/Users/emrahelis/Generic-Koleksiyon-SortedList/bin/Debug/net8.0/Generic-Koleksiyon-SortedList.deps.json
+/Users/emrahelis/Generic-Koleksiyon-SortedList/bin/Debug/net8.0/Generic-Koleksiyon-SortedList.runtimeconfig.json
+/Users/emrahelis/Generic-Koleksiyon-SortedList/bin/Debug/net8.0/Generic-Koleksiyon-SortedList.dll
+/Users/emrahelis/Generic-Koleksiyon-SortedList/bin/Debug/net8.0/Generic-Koleksiyon-SortedList.pdb
+/Users/emrahelis/Generic-Koleksiyon-SortedList/obj/Debug/net8.0/Generic-Koleksiyon-SortedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Generic-Koleksiyon-SortedList/obj/Debug/net8.0/Generic-Koleksiyon-SortedList.AssemblyInfoInputs.cache
+/Users/emrahelis/Generic-Koleksiyon-SortedList/obj/Debug/net8.0/Generic-Koleksiyon-SortedList.AssemblyInfo.cs
+/Users/emrahelis/Generic-Koleksiyon-SortedList/obj/Debug/net8.0/Generic-Koleksiyon-SortedList.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Generic-Koleksiyon-SortedList/obj/Debug/net8.0/Generic-Koleksiyon-SortedList.dll
+/Users/emrahelis/Generic-Koleksiyon-SortedList/obj/Debug/net8.0/refint/Generic-Koleksiyon-SortedList.dll
+/Users/emrahelis/Generic-Koleksiyon-SortedList/obj/Debug/net8.0/Generic-Koleksiyon-SortedList.pdb
+/Users/emrahelis/Generic-Koleksiyon-SortedList/obj/Debug/net8.0/Generic-Koleksiyon-SortedList.genruntimeconfig.cache
+/Users/emrahelis/Generic-Koleksiyon-SortedList/obj/Debug/net8.0/ref/Generic-Koleksiyon-SortedList.dll
